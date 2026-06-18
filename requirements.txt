@@ -1,0 +1,19 @@
+# Tested on Python 3.12
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+statsmodels>=0.14
+lightgbm>=4.3
+xgboost>=2.0
+
+# LSTM (optional — pipeline still runs the other 5 models without it)
+torch>=2.2
+
+# Notebooks
+jupyter
+nbformat
+nbclient
+nbconvert
+ipykernel
